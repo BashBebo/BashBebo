@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=BashBebo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BashBebo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BashBebo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<a href="https://app.daily.dev/bashir57"><img src="https://api.daily.dev/devcards/v2/l3zO5pZEQJfXe0oEvMVhT.png?type=default&r=zmy" width="356" alt="Bashir's Dev Card"/></a>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BashBebo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -23,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BashBebo&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<a href="https://app.daily.dev/bashir57"><img src="https://api.daily.dev/devcards/v2/l3zO5pZEQJfXe0oEvMVhT.png?type=default&r=zmy" width="356" alt="Bashir's Dev Card"/></a>
