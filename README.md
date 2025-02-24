@@ -24,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BashBebo&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://app.daily.dev/bashir57"><img src="https://api.daily.dev/devcards/v2/l3zO5pZEQJfXe0oEvMVhT.png?type=default&r=zmy" width="356" alt="Bashir's Dev Card"/></a>
