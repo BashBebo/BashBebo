@@ -1,5 +1,22 @@
-# 💫 About Me:
- Heyyo, I’m @BashBebo<br><br>👀 I’m into programming and tech stuff<br>🌱 Currently learning HTML, CSS, and JavaScript<br>💞️ Open to collaborating on web projects<br>📫 Reach me at Bashir6412@gmail.com<br>😄 Pronouns: Any work for me<br>⚡ Fun fact: I’m still figuring out coding, but it’s been a fun ride so far
+## 👨‍💻 Bashir | Frontend Developer in Progress
+
+Crafting clean, modern UIs with HTML, CSS & JavaScript.
+Focused on learning fast, building real, and improving daily.
+
+⸻
+
+🔧 Current Focus:
+	•	Frontend development (HTML/CSS/JS)
+	•	Building strong design & coding habits
+	•	Learning by doing – real projects, real growth
+
+⸻
+
+🚀 Goals:
+	•	Launch portfolio projects
+	•	Sharpen UI/UX and JavaScript skills
+	•	Grow as a developer and creator
+
 
 
 ## 🌐 Socials:
