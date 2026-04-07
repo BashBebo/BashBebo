@@ -19,8 +19,7 @@ Focused on learning fast, building real, and improving daily.
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onlywith.bashir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Be8o_13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bashir6412@gmail.com) 
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
